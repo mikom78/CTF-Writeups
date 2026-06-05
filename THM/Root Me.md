@@ -1,7 +1,6 @@
 The target ip was : 10.129.164.144
 
 so the question they gave to find are :
-
 	1. How many ports are open?
 	2. What version of Apache is running?
 	3. what server is running on port 22?
