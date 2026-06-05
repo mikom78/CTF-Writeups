@@ -1,4 +1,5 @@
 The Target ip was :- 10.130.156.140
+
 so i run port scan with namp.
 
 ![](../images/2026-06-02_10-53.png)
