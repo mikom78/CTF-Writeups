@@ -1,4 +1,5 @@
 the target ip was : 10.129.131.49
+
 the question we have to answer are :
 
 	1. how many ports are open?
