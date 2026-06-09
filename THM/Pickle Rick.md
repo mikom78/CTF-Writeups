@@ -1,4 +1,5 @@
 The Target ip was :- 10.130.156.140
+
 so i run port scan with namp.
 
 ![](../images/2026-06-02_10-53.png)
@@ -49,5 +50,5 @@ for the 3rd we don't have any clue so after i search a lot of places i go to the
 and guess what, i got the 3rd Flag there DONE.
 
 
-This was my first room write-up and it was nice room.
+This was my first room write-up and it was nice room. 
 Good bye, see you in another room!
